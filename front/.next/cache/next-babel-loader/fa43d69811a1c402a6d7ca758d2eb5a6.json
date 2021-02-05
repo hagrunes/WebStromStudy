@@ -1,0 +1,1 @@
+{"ast":null,"code":"const PostCard = () => {};\n\nexport default Home;","map":{"version":3,"sources":["C:/LEC/myStudy/front/components/PostCard.js"],"names":["PostCard","Home"],"mappings":"AAAA,MAAMA,QAAQ,GAAG,MAAM,CAEtB,CAFD;;AAIA,eAAeC,IAAf","sourcesContent":["const PostCard = () => {\r\n\r\n};\r\n\r\nexport default Home;\r\n"]},"metadata":{},"sourceType":"module"}

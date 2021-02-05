@@ -1,0 +1,1 @@
+{"ast":null,"code":"const PostForm = () => {};\n\nexport default PostForm;","map":{"version":3,"sources":["C:/LEC/myStudy/front/components/PostForm.js"],"names":["PostForm"],"mappings":"AAAA,MAAMA,QAAQ,GAAG,MAAM,CAEtB,CAFD;;AAIA,eAAeA,QAAf","sourcesContent":["const PostForm = () => {\r\n\r\n};\r\n\r\nexport default PostForm;\r\n"]},"metadata":{},"sourceType":"module"}
